@@ -24,4 +24,3 @@ function points(games) {
 
 let games = ["3:1", "2:2", "0:1"];
 points(games);
-
